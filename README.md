@@ -6,7 +6,7 @@ I enjoy building reliable APIs, designing clean database schemas, and understand
 
 ## 🔭 What I'm working on
 
-- Building a backend project with **FastAPI**, **SQLAlchemy**, and **PostgreSQL**: [project name / link]
+- Building a backend project with **FastAPI**, **SQLAlchemy**, and **PostgreSQL**: [Social-Media / [link](https://github.com/Amircodecode/Social-Media)]
 - Deepening my knowledge of databases, API design, and containerization
 - Looking for an **internship / junior backend opportunity**
 
@@ -43,8 +43,8 @@ I enjoy building reliable APIs, designing clean database schemas, and understand
 
 ## 🌱 Currently Learning
 
-- Advanced SQL and database optimization
-- Backend architecture and best practices (authentication, testing, CI/CD)
+- SQL and database optimization
+- Backend architecture and practices (authentication, testing, CI/CD)
 
 ## 🎯 Beyond Code
 
