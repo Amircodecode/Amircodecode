@@ -39,24 +39,18 @@ I enjoy building reliable APIs, designing clean database schemas, and understand
 
 | Project | Description | Stack |
 | ------- | ----------- | ----- |
-| [Project Name](https://github.com/your-username/your-repo) | Short description of what it does | FastAPI, SQLAlchemy, PostgreSQL, Docker |
+| [Social-Media](https://github.com/Amircodecode/Social-Media) | Short description of what it does | FastAPI, SQLAlchemy, PostgreSQL, Docker |
 
 ## 🌱 Currently Learning
 
 - Advanced SQL and database optimization
 - Backend architecture and best practices (authentication, testing, CI/CD)
-- Korean language 🇰🇷 (beginner level)
 
 ## 🎯 Beyond Code
 
-Table tennis, tennis, swimming, board games (Monopoly Deal fan), music, and menswear / smart-casual style.
+Table tennis, tennis, swimming, board games (Monopoly Deal fan)
 
 ## 🌐 Languages
 
-Russian · English · Uzbek *(edit to match your levels)* · Korean (basic)
+Russian C1 English B2 Uzbek B2 Korean (basic)
 
-## 📫 Contact
-
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- ✈️ Telegram: [@your_username](https://t.me/your_username)
