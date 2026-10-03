@@ -1,6 +1,6 @@
 # Hi, I'm Amir 👋
 
-**Computer Science & Engineering student (2nd year) at Inha University in Tashkent**, focused on **backend development with Python**.
+**Computer Science & Engineering student (3nd year) at Inha University in Tashkent**, focused on **backend development with Python**.
 
 I enjoy building reliable APIs, designing clean database schemas, and understanding how things work under the hood, from web services all the way down to low-level code.
 
@@ -8,7 +8,7 @@ I enjoy building reliable APIs, designing clean database schemas, and understand
 
 - Building a backend project with **FastAPI**, **SQLAlchemy**, and **PostgreSQL**: [project name / link]
 - Deepening my knowledge of databases, API design, and containerization
-- Looking for an **internship / junior backend opportunity** *(edit or remove)*
+- Looking for an **internship / junior backend opportunity**
 
 ## 🛠️ Tech Stack
 
@@ -39,7 +39,7 @@ I enjoy building reliable APIs, designing clean database schemas, and understand
 
 | Project | Description | Stack |
 | ------- | ----------- | ----- |
-| [Social-Media](https://github.com/Amircodecode/Social-Media) | Short description of what it does | FastAPI, SQLAlchemy, PostgreSQL, Docker |
+| [Social-Media](https://github.com/Amircodecode/Social-Media) | Backend and database layer for a social network, built with FastAPI, SQLAlchemy, and PostgreSQL. | FastAPI, SQLAlchemy, PostgreSQL, Docker |
 
 ## 🌱 Currently Learning
 
